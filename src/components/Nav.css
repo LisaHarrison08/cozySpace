@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    height: 70px;
+    display: flex;
+    background-color: rgb(241, 241, 248);
+    padding: 20px 36px;
+}
+
+.nav--logo{
+    max-width:100px;
+}
+
+.logo--title{
+    font-size: 30px;
+    margin-left: 20px;
+}
